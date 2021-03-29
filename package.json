@@ -15,6 +15,7 @@
   "devDependencies": {
     "aws-sdk": "^2.874.0",
     "eslint-config-defaults": "^9.0.0",
+    "jest": "^26.6.3",
     "serverless-bundle": "^3.2.0",
     "serverless-dotenv-plugin": "^2.1.1",
     "serverless-offline": "^5.3.3"
